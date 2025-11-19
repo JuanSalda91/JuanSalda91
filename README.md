@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juan Saldarriaga</h1>
-<h3 align="center">A passionate MERN stack developer</h3>
+<h3 align="center">MERN Stack Student</h3>
+
+- 🌱 I’m currently learning **JavaScript, TypeScript, React, Express, Node**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
